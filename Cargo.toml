@@ -2,5 +2,8 @@
 name = "bf-interpreter"
 version = "0.1.0"
 edition = "2021"
+description = "Pure Brainfuck interpreter in Rust — library crate for embedding and Wasm compilation"
+license = "MIT"
+repository = "https://github.com/Lasimeri/bf-interpreter"
 
 [dependencies]
